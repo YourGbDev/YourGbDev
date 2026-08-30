@@ -29,7 +29,7 @@ each student's eligibility profile. *In development.*
 
 ## Contact
 
-- Portfolio: _(link to be added once the production URL is confirmed)_
+- Portfolio: https://gilbertbulado.vercel.app/
 - GitHub: [@YourGbDev](https://github.com/YourGbDev)
 
 Open to internships, junior roles, and freelance opportunities.
