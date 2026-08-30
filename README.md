@@ -31,6 +31,6 @@ each student's eligibility profile. *In development.*
 
 - Portfolio: https://gilbertbulado.vercel.app/
 - GitHub: [@YourGbDev](https://github.com/YourGbDev)
-- linkedin: https://www.linkedin.com/in/gilbert-m-bulado-jr-96b95a431/
+- Linkedin: https://www.linkedin.com/in/gilbert-m-bulado-jr-96b95a431/?utm_source=chatgpt.com
 
 Open to internships, junior roles, and freelance opportunities.
