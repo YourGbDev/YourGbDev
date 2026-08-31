@@ -1,36 +1,60 @@
 # Gilbert Bulado
 
-**IT student & full-stack developer** · Ormoc City, Philippines
+**Cloud & DevOps Engineer in Progress** · Ormoc City, Philippines
 
-I build practical web and mobile applications — React + TypeScript
-frontends, PHP REST APIs, and Flutter mobile apps — with clean interfaces,
-working authentication, and reliable data handling.
+I build full-stack web and mobile applications with a deliberate focus on
+how they are deployed, automated, and operated — bridging a software
+engineering foundation into cloud infrastructure, CI/CD, and operations.
 
-**Currently building:** [Scholaris](https://github.com/YourGbDev/scholaris-app) — a
-Flutter + Supabase scholarship-matching platform that ranks opportunities against
-each student's eligibility profile. *In development.*
+## Current
 
-## What I build
+- **Scholaris** — scholarship-matching mobile app (Flutter + Dart + Supabase).
+  Building the application foundation with backend integration planned next.
+- **AWS & Linux** — actively learning AWS services, Linux CLI, networking,
+  and infrastructure fundamentals.
+- **BS Information Technology** — Western Leyte College of Ormoc.
 
-- Full-stack web apps (React, TypeScript, PHP)
-- REST APIs & backends (PHP, Node.js / Express)
-- Mobile apps (Flutter / Dart)
-- Databases (MySQL / MariaDB, PostgreSQL, Supabase)
+## Foundation
 
-## Highlighted work
+| Area | Technologies |
+|------|-------------|
+| Frontend | React, TypeScript, Next.js, Tailwind CSS, Flutter, Dart |
+| Backend | PHP, Node.js / Express, REST APIs |
+| Database | PostgreSQL, MySQL, MariaDB, Supabase |
+| Tools | Git, GitHub, Docker, VS Code, Postman |
 
-- [**POS System**](https://github.com/YourGbDev/pos-system) — full-stack point-of-sale
-  & inventory system: React + TypeScript frontend, PHP REST API, MySQL. Live demo,
-  role-based access, and 649 backend tests.
-- [**EcoWatch**](https://github.com/YourGbDev/EcoWatch) — web-based environmental
-  incident monitoring & response coordination platform (PHP, MySQL, Tailwind CSS).
-- [**Scholaris**](https://github.com/YourGbDev/scholaris-app) — scholarship-matching
-  mobile app (Flutter + Supabase). *In development.*
+## Learning
+
+```
+AWS      ████░░░░░░  LEARNING
+Linux    ██████░░░░  ACTIVE
+Docker   ███░░░░░░░  NEXT
+CI/CD    ████░░░░░░  BUILDING
+Terraform██░░░░░░░░  PLANNED
+```
+
+## Key Projects
+
+- [**POS System**](https://github.com/YourGbDev/pos-system) — browser-based
+  point-of-sale & inventory system: React 19 + TypeScript SPA, PHP REST API,
+  MySQL. Live demo, RBAC, 649 backend tests.
+- [**EcoWatch**](https://github.com/YourGbDev/EcoWatch) — environmental
+  incident monitoring platform (PHP, MySQL, Tailwind CSS).
+- [**Scholaris**](https://github.com/YourGbDev/scholaris) — Flutter
+  scholarship-matching mobile app. *In development.*
+
+## Roadmap (Planned)
+
+1. **InfraForge** — Infrastructure as Code on AWS (Terraform, Docker, IAM)
+2. **DeployFlow** — CI/CD pipeline (GitHub Actions, Docker, ECS)
+3. **CloudMind** — AI-powered cloud-native app (AWS Bedrock, FastAPI)
+4. **SignalOps** — Observability & incident response (CloudWatch, Lambda)
+5. **CloudShield** — Zero-trust cloud security (KMS, CloudTrail, GuardDuty)
 
 ## Contact
 
-- Portfolio: https://gilbertbulado.vercel.app/
+- Portfolio: [gilbertbulado.vercel.app](https://gilbertbulado.vercel.app/)
 - GitHub: [@YourGbDev](https://github.com/YourGbDev)
-- Linkedin: https://www.linkedin.com/in/gilbert-m-bulado-jr-96b95a431/?utm_source=chatgpt.com
+- LinkedIn: [linkedin.com/in/gilbert-m-bulado-jr](https://www.linkedin.com/in/gilbert-m-bulado-jr-96b95a431/)
 
-Open to internships, junior roles, and freelance opportunities.
+Open to internships, junior Cloud/DevOps roles, and freelance opportunities.
